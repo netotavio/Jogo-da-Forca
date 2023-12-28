@@ -1,4 +1,4 @@
-palavra_secreta = 'moleque'.upper()
+palavra_secreta = ''.upper()    #Insira aqui a palavra a ser adivinhada
 palpite = ''
 palavra_escondida = ''
 vidas = 3
